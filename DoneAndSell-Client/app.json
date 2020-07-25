@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "DoneAndSell",
+    "slug": "DoneAndSell",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./app/assets/splashscreen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#e63c4b"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
